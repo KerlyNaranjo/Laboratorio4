@@ -1,6 +1,6 @@
 #Mayus Minus y Capital letter
 
-frase = str(input("Ingresa una frase: "))
+frase = str(input("ESCRIBE UNA FRASE COHERENTE: "))
 
 print (frase.upper())
 print (frase.lower())
