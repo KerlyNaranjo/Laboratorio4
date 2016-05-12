@@ -1,5 +1,5 @@
 def funcion():
-    return ("hola mundo!")
+    return ("chao mundo!")
 
 frase = funcion()
 print (frase)
