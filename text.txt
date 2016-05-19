@@ -1,0 +1,1 @@
+Google translation does not support very long text, goslate bypass this limitation by split the long text internally before send to Google and join the mutiple results into one translation text to the end user. Goslate use batch and concurrent fetch aggresivelly to achieve maximized translation speed internally.
